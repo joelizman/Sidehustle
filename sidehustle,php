@@ -1,0 +1,4 @@
+<?php
+    $Josephikpeme =  "<b> This is the assignment of Joseph Ikpeme";
+    echo $Josephikpeme;
+?>
